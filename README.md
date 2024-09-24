@@ -1,8 +1,23 @@
-# React + Vite
+# My Product List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+My Product List is a React application that displays a list of products with filtering capabilities. Users can filter products by category (e.g., All, Electronics, Clothing) to find specific items easily. Each product card displays relevant information, including the product name, category, price, rating, availability, and description.
 
-Currently, two official plugins are available:
+## Features
+- Filter products by category (All, Electronics, Clothing, Toys)
+- Display product details such as name, price, rating, stock status, and description
+- Responsive design for better usability on different devices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Vite
+- PropTypes for type checking
+- CSS for styling
+
+## Installation
+
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/my-product-list.git
