@@ -1,0 +1,57 @@
+/* Footer.css */
+.footer {
+    background-color: #4CAF50; /* Match with your color scheme */
+    color: white; /* White text for contrast */
+    padding: 20px; /* Space inside footer */
+    position: relative; /* Position relative for footer */
+    bottom: 0; /* Stick to bottom */
+    width: 100%; /* Full width */
+    text-align: left; /* Align text to the left */
+}
+
+.footer-content {
+    display: flex; /* Flexbox for layout */
+    justify-content: space-between; /* Space between sections */
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+}
+
+.footer-section {
+    flex: 1; /* Equal flex for sections */
+    margin: 10px; /* Margin around sections */
+}
+
+.footer-section h4 {
+    margin-bottom: 10px; /* Space below headings */
+    font-size: 1.2em; /* Slightly larger font for headings */
+}
+
+.footer-section p,
+.footer-section ul {
+    font-size: 0.9em; /* Standard size for paragraphs */
+}
+
+.footer-section ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+}
+
+.footer-section ul li {
+    margin: 5px 0; /* Space between list items */
+}
+
+.footer-section a {
+    color: white; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+.footer-section a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.footer-bottom {
+    text-align: center; /* Center text */
+    padding: 10px; /* Space above */
+    font-size: 0.8em; /* Smaller font size */
+    border-top: 1px solid #ddd; /* Top border for separation */
+    margin-top: 20px; /* Space above bottom text */
+}
