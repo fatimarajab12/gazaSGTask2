@@ -3,7 +3,7 @@
 ## Description
 My Product List is a React application that displays a list of products with filtering capabilities. Users can filter products by category (e.g., All, Electronics, Clothing) to find specific items easily. Each product card displays relevant information, including the product name, category, price, rating, availability, and description.
 
-![My Product List Screenshot](https://github.com/fatimarajab12/gazaSGTask2/Screenshot2024-09-24040332.png) <!-- Update with your actual image URL -->
+![My Product List Screenshot](https://github.com/fatimarajab12/gazaSGTask2/raw/main/Screenshot%202024-09-24%20040332.png)
 
 ## Features
 - Filter products by category (All, Electronics, Clothing, Toys)
